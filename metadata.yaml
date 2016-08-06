@@ -1,0 +1,31 @@
+_repo: The-World-s-Great-Sermons-Volume-02--13-Hooker-to-South_11627
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Kleiser, Grenville
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4071'
+    url: http://www.gutenberg.org/2009/agents/4071
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons'
+- !lcc 'BV'
+- GITenberg
+tableOfContents: The activity of faith; or, Abraham's imitators / Hooker -- Christ's
+  advent to judgment / Jeremy Taylor -- Making light of Christ and salvation / Baxter
+  -- The funeral sermon on the death of the grande Condé / Bossuet -- The heavenly
+  Footman / Bunyan -- The reasonableness of a resurrection / Tillotson -- The Redeemer's
+  tears over lost souls / Howe -- The passion of Christ / Bourdaloue -- The saints
+  converse with God / Fénelon -- The image of God in man / South.
+title: "The World's Great Sermons, Volume 02\r\nHooker to South"
+url: http://www.gutenberg.org/ebooks/11627
